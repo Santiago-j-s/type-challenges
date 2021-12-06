@@ -1,0 +1,15 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "tsc --noEmit src/**/*.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
